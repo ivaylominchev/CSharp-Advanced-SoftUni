@@ -3,9 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.8.34525.116
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01. Count Same Values in Array", "01. Count Same Values in Array\01. Count Same Values in Array.csproj", "{2280211A-B5AD-4218-B6D7-A8E8ED7BAA2E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "01. Count Same Values in Array", "01. Count Same Values in Array\01. Count Same Values in Array.csproj", "{2280211A-B5AD-4218-B6D7-A8E8ED7BAA2E}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02. Average Student Grades", "02. Average Student Grades\02. Average Student Grades.csproj", "{A72DC6A4-30B8-4E15-99A2-68D14546C635}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "02. Average Student Grades", "02. Average Student Grades\02. Average Student Grades.csproj", "{A72DC6A4-30B8-4E15-99A2-68D14546C635}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04. Product Shop", "04. Product Shop\04. Product Shop.csproj", "{151DEE48-1864-45B7-9D09-F61F0BA08F3D}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +23,10 @@ Global
 		{A72DC6A4-30B8-4E15-99A2-68D14546C635}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A72DC6A4-30B8-4E15-99A2-68D14546C635}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A72DC6A4-30B8-4E15-99A2-68D14546C635}.Release|Any CPU.Build.0 = Release|Any CPU
+		{151DEE48-1864-45B7-9D09-F61F0BA08F3D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{151DEE48-1864-45B7-9D09-F61F0BA08F3D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{151DEE48-1864-45B7-9D09-F61F0BA08F3D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{151DEE48-1864-45B7-9D09-F61F0BA08F3D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
